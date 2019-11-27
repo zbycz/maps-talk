@@ -2,6 +2,10 @@
 
 - **[SLIDES in Google Docs](https://docs.google.com/presentation/d/1lYxwQoKNFpeW97vbDzpMemFIWhxkXLjmE5Q8YWmc4Ng/edit#slide=id.g5616542f9a_1_503)**
 
+- **[Video on youtube](https://www.youtube.com/watch?v=Oys0a4gc_WU)**
+
+[![preview](http://i3.ytimg.com/vi/Oys0a4gc_WU/hqdefault.jpg)](https://www.youtube.com/watch?v=Oys0a4gc_WU)
+
 Some links:
 
 - https://openstreetmap.cz/js-meetup
